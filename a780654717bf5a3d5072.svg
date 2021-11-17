@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="Flag_of_Ukraine.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.57334575"
+     inkscape:cx="798.84338"
+     inkscape:cy="519.5274"
+     inkscape:window-x="-9"
+     inkscape:window-y="41"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <g
+     id="g99"
+     transform="translate(-200)">
+    <path
+       id="rect22"
+       style="fill:#005bbb;stroke-width:1"
+       d="M 600,0 A 400,400 0 0 0 200,400 400,400 0 0 0 600,800 400,400 0 0 0 1000,400 400,400 0 0 0 600,0 Z" />
+    <path
+       style="fill:#ffff00;stroke-width:0.436037"
+       d="m 573.84684,798.7368 c -1.43892,-0.19123 -7.52164,-0.77787 -13.51715,-1.30366 -44.23688,-3.8794 -96.46766,-18.91239 -138.03541,-39.72916 C 382.5499,737.80035 349.37746,713.88222 317.8583,682.40312 286.35173,650.9366 262.31483,617.62224 242.56258,578.0457 222.41547,537.67798 209.39515,494.84351 203.676,450.11594 c -1.3888,-10.86128 -3.51039,-39.52048 -3.51242,-47.44704 l -5.1e-4,-1.96216 h 399.84599 399.846 l -0.0168,1.96216 c -0.009,1.07919 -0.40154,9.02597 -0.87187,17.6595 -2.99591,54.99426 -16.35328,106.4659 -40.19337,154.88217 -9.93943,20.18574 -13.77705,26.85125 -26.55962,46.13092 -65.14342,98.25437 -168.9089,161.56013 -288.16464,175.80488 -11.04366,1.31914 -63.33,2.50368 -70.20197,1.59043 z"
+       id="path89"
+       inkscape:label="path89" />
+  </g>
+</svg>
